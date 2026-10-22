@@ -1,4 +1,5 @@
 # ModuBot · robot modular abierto para la IdeaBoard
+**Equipo de diseño:** Alexandra Domínguez · Carlos Batista · Pablo Hernández Meléndez · Juan Quiel
 
 ModuBot es un kit de robótica educativa de código abierto. Tiene un cuerpo base impreso en 3D que aloja la placa **IdeaBoard (ESP32)** y un sistema de acople modular para sumarle ruedas, sensores, pinzas o carcasas. Cualquier estudiante, docente o maker puede **imprimirlo, modificarlo y compartir sus propios módulos**, sin depender de un fabricante cerrado.
 
