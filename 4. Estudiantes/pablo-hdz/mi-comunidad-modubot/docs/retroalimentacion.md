@@ -11,8 +11,6 @@ Cada comentario recibido, de quién vino y qué hicimos con él. Si algo no se i
 | 22/10/2026 | Revisión del borrador | Se mencionaban STEP y KiCad que no existían | Agregamos STEP de la carcasa y las vigas, y la guía de conexión en KiCad ([bitácora](bitacora-de-iteraciones.md#archivos-abiertos-step-y-kicad)) | ✅ Incorporado |
 | 22/10/2026 | Revisión del borrador | Usar solo información oficial sobre la IdeaBoard; unificar el nombre (EduBot/ModuBot); aclarar el propósito de las imágenes | IdeaBoard atribuida a CRCibernética según su wiki; nombre ModuBot; imágenes marcadas como conceptuales de la visión del equipo | ✅ Incorporado |
 | 22/10/2026 | Equipo | Incluir la guía de ensamblaje del equipo y los nombres de los integrantes | [Guía de ensamblaje](../recursos/guia-de-ensamblaje.md) agregada, con los pasos que dependen de piezas aún no diseñadas marcados como pendientes; integrantes en el README y en las fichas | ✅ Incorporado |
-| *[fecha]* | Otro grupo del curso (reto) | *[completar]* | *[completar]* | ⏳ |
-| *[fecha]* | Docente | *[completar con la retroalimentación del curso]* | *[completar]* | ⏳ |
 
 ## Cómo se registra un comentario nuevo
 
