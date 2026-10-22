@@ -17,6 +17,7 @@ En los talleres con IdeaBoard, cada grupo improvisa cómo montar la placa en su 
 |---|---|---|---|
 | **Explorar** | Ver las [imágenes y el estado actual](#estado-actual) | 5 min | Nada |
 | **Probar** | Imprimir la tapa y comprobar el ajuste con la [ficha de fabricación](recursos/carcasa-ideaboard.md) | 1 h | Impresora 3D e IdeaBoard |
+| **Armar el robot** | Seguir la [guía de ensamblaje](recursos/guia-de-ensamblaje.md) | 1 tarde | Impresora 3D, IdeaBoard, motores y batería |
 | **Contribuir** | Reportar tu prueba con la plantilla de [issue "Prueba de ajuste"](../../issues/new?template=prueba-de-ajuste.md) | 15 min | Haber impreso algo |
 | **Crear un módulo** | Leer el [estándar de acople](docs/estandar-de-acople.md) y proponer uno con la plantilla ["Nuevo módulo"](../../issues/new?template=nuevo-modulo.md) | 1 tarde | Saber usar un programa CAD |
 | **Liderar** | Ver los [roles de la comunidad](docs/mapa-de-comunidad.md#roles) y el [plan de sostenibilidad](docs/plan-de-sostenibilidad.md) | — | Ganas de coordinar |
@@ -42,7 +43,8 @@ Cada carpeta es independiente: podés usar la carcasa sin las vigas, o las vigas
 ├── README.md                 ← estás acá
 ├── CONTRIBUTING.md           ← cómo aportar paso a paso
 ├── recursos/                 ← guías cortas para usar sin ayuda
-│   └── carcasa-ideaboard.md  ← ficha de fabricación de la carcasa
+│   ├── carcasa-ideaboard.md  ← ficha de fabricación de la carcasa
+│   └── guia-de-ensamblaje.md ← guía para armar el robot completo
 ├── hardware/
 │   ├── carcasa-ideaboard/    ← OpenSCAD paramétrico + STL + STEP
 │   ├── vigas/                ← sistema de vigas y adaptador (STL + STEP)
@@ -64,7 +66,7 @@ Los documentos son cortos y cada uno trata un solo tema, así que un asistente p
 
 ## Equipo y licencia
 
-- **Equipo de diseño:** Pablo Hernández Meléndez · *[completar con los demás integrantes]*.
+- **Equipo de diseño:** Alexandra Domínguez · Carlos Batista · Pablo Hernández Meléndez · Juan Quiel.
 - **Curso:** SINT-741 Activadores de Comunidades de Práctica (rúbrica adaptada por Tomás de Camino Beck, Ph.D., Universidad Cenfotec).
 - **Placa:** la IdeaBoard es una placa educativa de [CRCibernética](https://github.com/CRCibernetica/circuitpython-ideaboard/wiki), Costa Rica, según su documentación oficial. ModuBot es un proyecto independiente, no oficial.
 - Diseños, documentos e imágenes bajo [CC BY-SA 4.0](LICENSE): podés usarlos, modificarlos y compartirlos citando la fuente y con la misma licencia.

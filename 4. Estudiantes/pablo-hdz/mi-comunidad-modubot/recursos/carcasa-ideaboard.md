@@ -99,7 +99,7 @@ No hace falta saber programar ni modelar. Con tu medición cualquier persona pue
 
 ## Autoría y fuentes
 
-- **Autoría:** Equipo de diseño ModuBot, curso Activadores de Comunidades de Práctica (SINT-741): Pablo Hernández Meléndez · *[completar con los demás integrantes]*.
+- **Autoría:** Equipo de diseño ModuBot, curso Activadores de Comunidades de Práctica (SINT-741): Alexandra Domínguez · Carlos Batista · Pablo Hernández Meléndez · Juan Quiel.
 - **Origen:** diseño propio del grupo, hecho para usar la IdeaBoard en talleres de robótica educativa. El modelo se hizo con apoyo de un asistente de IA (Claude) y lo revisó el grupo.
 - **Fuentes:**
   - [Wiki oficial de la IdeaBoard](https://github.com/CRCibernetica/circuitpython-ideaboard/wiki) (pinout y lista de componentes).
