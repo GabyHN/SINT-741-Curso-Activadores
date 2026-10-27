@@ -14,6 +14,13 @@
 
 > Si tu usuario aparece como *por confirmar* o es incorrecto, avísale al profesor.
 
+## Entregas del grupo
+
+| Reto | Entrega |
+|---|---|
+| Reto 2 · Mapa de comunidad | [VisualNotes](reto-02/mapa-comunidad.md) |
+| Reto 3 · Recurso | [Cómo ejecutar y continuar VisualNotes AI](reto-03/como-ejecutar-y-continuar-visualnotes-ai.md) |
+
 ## Cómo subir una entrega de grupo
 
 > Cada entrega la sube **una sola persona** del grupo, la **responsable de entrega**. Rotan esa responsabilidad en cada reto. Así no hay conflictos entre PR.
@@ -28,9 +35,10 @@
 
 | Archivo | Ejemplo |
 |---|---|
-| Documento principal | `reto-02-mapa-comunidad.md` |
-| Imágenes | `reto-02-boceto.jpg`, `reto-02-prueba.jpg` |
-| Código | `reto-02-codigo.ino`, `reto-02-app.py` |
+| Carpeta del reto | `reto-02/` (una carpeta por reto) |
+| Documento principal | `reto-02/mapa-comunidad.md` o `reto-03/nombre-del-recurso.md` |
+| Imágenes | `reto-02/images/boceto.jpg` |
+| Código o prototipo | `reto-02/prototipo/` |
 
 Al inicio del documento principal escriban quiénes participaron y qué rol tuvo cada persona (facilitación, documentación, observación, construcción…).
 
@@ -49,7 +57,7 @@ Verifiquen que la flecha vaya **desde su fork** hacia el **repositorio del curso
 |---|---|
 | Dónde se sube | Solo dentro de la carpeta de su grupo |
 | Quién sube | Una persona por entrega, y la responsabilidad rota |
-| Nombres | Minúsculas y guiones: `reto-02-mapa-comunidad.md` |
+| Nombres | Minúsculas y guiones, una carpeta por reto: `reto-02/mapa-comunidad.md` |
 | Un PR por entrega | No mezclen dos retos en el mismo PR |
 | Entregas individuales | Siguen yendo a su carpeta en `4. Estudiantes/` |
 
