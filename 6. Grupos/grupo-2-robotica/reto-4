@@ -1,0 +1,46 @@
+
+# Mi primer documento en Markdown
+
+## Introducción
+
+Markdown es un lenguaje de marcado que permite crear documentos con un formato sencillo y organizado.
+
+## Características principales
+
+- **Fácil de aprender**
+- *Rápido de escribir*
+- Permite organizar la información.
+- Compatible con múltiples plataformas.
+
+## Lista de tareas
+
+- [x] Investigar sobre Markdown
+- [x] Crear un documento
+- [ ] Revisar el contenido
+- [ ] Compartir el documento
+
+## Tabla de ejemplo
+
+| Nombre | Rol | Estado |
+|--------|-----|--------|
+| Ana | Desarrolladora | Activo |
+| Carlos | Diseñador | Pendiente |
+| María | Administradora | Activo |
+
+## Enlaces
+
+Visita [Google](https://www.google.com) para obtener más información.
+
+## Ejemplo de código
+
+```python
+print("¡Hola, mundo!")
+```
+
+> **Nota importante:** Markdown permite escribir contenido estructurado sin utilizar herramientas complejas.
+
+---
+
+### Conclusión
+
+Markdown es útil para crear documentación técnica, archivos README, apuntes académicos y contenido para plataformas digitales.
